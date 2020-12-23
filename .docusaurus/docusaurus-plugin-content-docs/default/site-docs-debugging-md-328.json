@@ -1,0 +1,21 @@
+{
+  "unversionedId": "debugging",
+  "id": "debugging",
+  "isDocsHomePage": false,
+  "title": "Debugging",
+  "description": "React Tracked uses native React state and context,",
+  "source": "@site/docs\\debugging.md",
+  "slug": "/debugging",
+  "permalink": "/docs/debugging",
+  "version": "current",
+  "sidebar_label": "Debugging",
+  "sidebar": "docs",
+  "previous": {
+    "title": "Recipes",
+    "permalink": "/docs/recipes"
+  },
+  "next": {
+    "title": "Caveats",
+    "permalink": "/docs/caveats"
+  }
+}

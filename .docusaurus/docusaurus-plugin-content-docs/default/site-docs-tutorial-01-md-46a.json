@@ -1,0 +1,21 @@
+{
+  "unversionedId": "tutorial-01",
+  "id": "tutorial-01",
+  "isDocsHomePage": false,
+  "title": "Tutorial - Person Name with useState",
+  "description": "This tutorial shows tiny example code with useState.",
+  "source": "@site/docs\\tutorial-01.md",
+  "slug": "/tutorial-01",
+  "permalink": "/docs/tutorial-01",
+  "version": "current",
+  "sidebar_label": "Person Name (useState)",
+  "sidebar": "docs",
+  "previous": {
+    "title": "Comparison with other projects",
+    "permalink": "/docs/comparison"
+  },
+  "next": {
+    "title": "Tutorial - ToDo App with useReducer",
+    "permalink": "/docs/tutorial-02"
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/docs",
+          "mainDocId": "introduction",
+          "docs": [
+            {
+              "id": "api",
+              "path": "/docs/api",
+              "sidebar": "docs"
+            },
+            {
+              "id": "caveats",
+              "path": "/docs/caveats",
+              "sidebar": "docs"
+            },
+            {
+              "id": "comparison",
+              "path": "/docs/comparison",
+              "sidebar": "docs"
+            },
+            {
+              "id": "debugging",
+              "path": "/docs/debugging",
+              "sidebar": "docs"
+            },
+            {
+              "id": "introduction",
+              "path": "/docs/introduction",
+              "sidebar": "docs"
+            },
+            {
+              "id": "quick-start",
+              "path": "/docs/quick-start",
+              "sidebar": "docs"
+            },
+            {
+              "id": "recipes",
+              "path": "/docs/recipes",
+              "sidebar": "docs"
+            },
+            {
+              "id": "tutorial-01",
+              "path": "/docs/tutorial-01",
+              "sidebar": "docs"
+            },
+            {
+              "id": "tutorial-02",
+              "path": "/docs/tutorial-02",
+              "sidebar": "docs"
+            },
+            {
+              "id": "tutorial-03",
+              "path": "/docs/tutorial-03",
+              "sidebar": "docs"
+            },
+            {
+              "id": "tutorial-04",
+              "path": "/docs/tutorial-04",
+              "sidebar": "docs"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

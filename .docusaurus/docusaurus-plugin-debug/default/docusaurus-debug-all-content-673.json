@@ -1,0 +1,354 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "loadedVersions": [
+        {
+          "versionName": "current",
+          "versionLabel": "Next",
+          "versionPath": "/docs",
+          "isLast": true,
+          "routePriority": -1,
+          "sidebarFilePath": "E:\\react-tracked-webiste\\sidebars.js",
+          "docsDirPath": "E:\\react-tracked-webiste\\docs",
+          "docsDirPathLocalized": "E:\\react-tracked-webiste\\i18n\\en\\docusaurus-plugin-content-docs\\current",
+          "mainDocId": "introduction",
+          "sidebars": {
+            "docs": [
+              {
+                "collapsed": true,
+                "type": "category",
+                "label": "Getting Started",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "introduction"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "quick-start"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "comparison"
+                  }
+                ]
+              },
+              {
+                "collapsed": true,
+                "type": "category",
+                "label": "Basic Tutorial",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "tutorial-01"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "tutorial-02"
+                  }
+                ]
+              },
+              {
+                "collapsed": true,
+                "type": "category",
+                "label": "Intermediate Tutorial",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "tutorial-03"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "tutorial-04"
+                  }
+                ]
+              },
+              {
+                "collapsed": true,
+                "type": "category",
+                "label": "Reference",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "api"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "recipes"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "debugging"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "caveats"
+                  }
+                ]
+              }
+            ]
+          },
+          "permalinkToSidebar": {
+            "/docs/api": "docs",
+            "/docs/caveats": "docs",
+            "/docs/comparison": "docs",
+            "/docs/debugging": "docs",
+            "/docs/introduction": "docs",
+            "/docs/quick-start": "docs",
+            "/docs/recipes": "docs",
+            "/docs/tutorial-01": "docs",
+            "/docs/tutorial-02": "docs",
+            "/docs/tutorial-03": "docs",
+            "/docs/tutorial-04": "docs"
+          },
+          "docs": [
+            {
+              "unversionedId": "api",
+              "id": "api",
+              "isDocsHomePage": false,
+              "title": "API",
+              "description": "The createContainer is a main function exported from the library,",
+              "source": "@site/docs\\api.md",
+              "slug": "/api",
+              "permalink": "/docs/api",
+              "version": "current",
+              "sidebar_label": "API",
+              "sidebar": "docs",
+              "previous": {
+                "title": "Tutorial - ToDo App with Async Actions",
+                "permalink": "/docs/tutorial-04"
+              },
+              "next": {
+                "title": "Recipes",
+                "permalink": "/docs/recipes"
+              }
+            },
+            {
+              "unversionedId": "caveats",
+              "id": "caveats",
+              "isDocsHomePage": false,
+              "title": "Caveats",
+              "description": "Proxy and state usage tracking may not work 100% as expected.",
+              "source": "@site/docs\\caveats.md",
+              "slug": "/caveats",
+              "permalink": "/docs/caveats",
+              "version": "current",
+              "sidebar_label": "Caveats",
+              "sidebar": "docs",
+              "previous": {
+                "title": "Debugging",
+                "permalink": "/docs/debugging"
+              }
+            },
+            {
+              "unversionedId": "comparison",
+              "id": "comparison",
+              "isDocsHomePage": false,
+              "title": "Comparison with other projects",
+              "description": "There are several projects to provide global state management.",
+              "source": "@site/docs\\comparison.md",
+              "slug": "/comparison",
+              "permalink": "/docs/comparison",
+              "version": "current",
+              "sidebar_label": "Comparison",
+              "sidebar": "docs",
+              "previous": {
+                "title": "Quick Start",
+                "permalink": "/docs/quick-start"
+              },
+              "next": {
+                "title": "Tutorial - Person Name with useState",
+                "permalink": "/docs/tutorial-01"
+              }
+            },
+            {
+              "unversionedId": "debugging",
+              "id": "debugging",
+              "isDocsHomePage": false,
+              "title": "Debugging",
+              "description": "React Tracked uses native React state and context,",
+              "source": "@site/docs\\debugging.md",
+              "slug": "/debugging",
+              "permalink": "/docs/debugging",
+              "version": "current",
+              "sidebar_label": "Debugging",
+              "sidebar": "docs",
+              "previous": {
+                "title": "Recipes",
+                "permalink": "/docs/recipes"
+              },
+              "next": {
+                "title": "Caveats",
+                "permalink": "/docs/caveats"
+              }
+            },
+            {
+              "unversionedId": "introduction",
+              "id": "introduction",
+              "isDocsHomePage": false,
+              "title": "Introduction",
+              "description": "React Context and useContext is often used to avoid prop drilling,",
+              "source": "@site/docs\\introduction.md",
+              "slug": "/introduction",
+              "permalink": "/docs/introduction",
+              "version": "current",
+              "sidebar_label": "Introduction",
+              "sidebar": "docs",
+              "next": {
+                "title": "Quick Start",
+                "permalink": "/docs/quick-start"
+              }
+            },
+            {
+              "unversionedId": "quick-start",
+              "id": "quick-start",
+              "isDocsHomePage": false,
+              "title": "Quick Start",
+              "description": "Let's try a minimal example from scratch.",
+              "source": "@site/docs\\quick-start.md",
+              "slug": "/quick-start",
+              "permalink": "/docs/quick-start",
+              "version": "current",
+              "sidebar_label": "Quick Start",
+              "sidebar": "docs",
+              "previous": {
+                "title": "Introduction",
+                "permalink": "/docs/introduction"
+              },
+              "next": {
+                "title": "Comparison with other projects",
+                "permalink": "/docs/comparison"
+              }
+            },
+            {
+              "unversionedId": "recipes",
+              "id": "recipes",
+              "isDocsHomePage": false,
+              "title": "Recipes",
+              "description": "React Tracked provides a primitive API,",
+              "source": "@site/docs\\recipes.md",
+              "slug": "/recipes",
+              "permalink": "/docs/recipes",
+              "version": "current",
+              "sidebar_label": "Recipes",
+              "sidebar": "docs",
+              "previous": {
+                "title": "API",
+                "permalink": "/docs/api"
+              },
+              "next": {
+                "title": "Debugging",
+                "permalink": "/docs/debugging"
+              }
+            },
+            {
+              "unversionedId": "tutorial-01",
+              "id": "tutorial-01",
+              "isDocsHomePage": false,
+              "title": "Tutorial - Person Name with useState",
+              "description": "This tutorial shows tiny example code with useState.",
+              "source": "@site/docs\\tutorial-01.md",
+              "slug": "/tutorial-01",
+              "permalink": "/docs/tutorial-01",
+              "version": "current",
+              "sidebar_label": "Person Name (useState)",
+              "sidebar": "docs",
+              "previous": {
+                "title": "Comparison with other projects",
+                "permalink": "/docs/comparison"
+              },
+              "next": {
+                "title": "Tutorial - ToDo App with useReducer",
+                "permalink": "/docs/tutorial-02"
+              }
+            },
+            {
+              "unversionedId": "tutorial-02",
+              "id": "tutorial-02",
+              "isDocsHomePage": false,
+              "title": "Tutorial - ToDo App with useReducer",
+              "description": "This tutorial shows example code with useReducer.",
+              "source": "@site/docs\\tutorial-02.md",
+              "slug": "/tutorial-02",
+              "permalink": "/docs/tutorial-02",
+              "version": "current",
+              "sidebar_label": "ToDo App (useReducer)",
+              "sidebar": "docs",
+              "previous": {
+                "title": "Tutorial - Person Name with useState",
+                "permalink": "/docs/tutorial-01"
+              },
+              "next": {
+                "title": "Tutorial - ToDo App with useState",
+                "permalink": "/docs/tutorial-03"
+              }
+            },
+            {
+              "unversionedId": "tutorial-03",
+              "id": "tutorial-03",
+              "isDocsHomePage": false,
+              "title": "Tutorial - ToDo App with useState",
+              "description": "This tutorial shows example code with useState, Immer and custom hooks.",
+              "source": "@site/docs\\tutorial-03.md",
+              "slug": "/tutorial-03",
+              "permalink": "/docs/tutorial-03",
+              "version": "current",
+              "sidebar_label": "ToDo App (useState)",
+              "sidebar": "docs",
+              "previous": {
+                "title": "Tutorial - ToDo App with useReducer",
+                "permalink": "/docs/tutorial-02"
+              },
+              "next": {
+                "title": "Tutorial - ToDo App with Async Actions",
+                "permalink": "/docs/tutorial-04"
+              }
+            },
+            {
+              "unversionedId": "tutorial-04",
+              "id": "tutorial-04",
+              "isDocsHomePage": false,
+              "title": "Tutorial - ToDo App with Async Actions",
+              "description": "This tutorial shows example code with async actions.",
+              "source": "@site/docs\\tutorial-04.md",
+              "slug": "/tutorial-04",
+              "permalink": "/docs/tutorial-04",
+              "version": "current",
+              "sidebar_label": "ToDo App (async)",
+              "sidebar": "docs",
+              "previous": {
+                "title": "Tutorial - ToDo App with useState",
+                "permalink": "/docs/tutorial-03"
+              },
+              "next": {
+                "title": "API",
+                "permalink": "/docs/api"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "docusaurus-plugin-content-blog": {
+    "default": null
+  },
+  "docusaurus-plugin-content-pages": {
+    "default": [
+      {
+        "type": "jsx",
+        "permalink": "/",
+        "source": "@site/src\\pages\\index.js"
+      }
+    ]
+  },
+  "docusaurus-plugin-debug": {
+    "default": null
+  },
+  "docusaurus-theme-classic": {
+    "default": null
+  },
+  "docusaurus-theme-live-codeblock": {
+    "default": null
+  }
+}

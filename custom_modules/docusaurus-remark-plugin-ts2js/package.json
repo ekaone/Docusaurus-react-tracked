@@ -1,0 +1,12 @@
+{
+  "name": "docusaurus-remark-plugin-ts2js",
+  "version": "0.1.0",
+  "description": "Docusaurus TS2JS CodeBlock",
+  "main": "src/index.js",
+  "dependencies": {},
+  "peerDependencies": {
+    "prettier": "^1.18.2",
+    "typescript": "^3.6.3"
+  },
+  "license": "MIT"
+}

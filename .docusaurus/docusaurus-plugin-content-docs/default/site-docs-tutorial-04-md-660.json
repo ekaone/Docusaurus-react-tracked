@@ -1,0 +1,21 @@
+{
+  "unversionedId": "tutorial-04",
+  "id": "tutorial-04",
+  "isDocsHomePage": false,
+  "title": "Tutorial - ToDo App with Async Actions",
+  "description": "This tutorial shows example code with async actions.",
+  "source": "@site/docs\\tutorial-04.md",
+  "slug": "/tutorial-04",
+  "permalink": "/docs/tutorial-04",
+  "version": "current",
+  "sidebar_label": "ToDo App (async)",
+  "sidebar": "docs",
+  "previous": {
+    "title": "Tutorial - ToDo App with useState",
+    "permalink": "/docs/tutorial-03"
+  },
+  "next": {
+    "title": "API",
+    "permalink": "/docs/api"
+  }
+}

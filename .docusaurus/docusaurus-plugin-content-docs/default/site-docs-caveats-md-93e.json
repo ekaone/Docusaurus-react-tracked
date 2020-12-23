@@ -1,0 +1,17 @@
+{
+  "unversionedId": "caveats",
+  "id": "caveats",
+  "isDocsHomePage": false,
+  "title": "Caveats",
+  "description": "Proxy and state usage tracking may not work 100% as expected.",
+  "source": "@site/docs\\caveats.md",
+  "slug": "/caveats",
+  "permalink": "/docs/caveats",
+  "version": "current",
+  "sidebar_label": "Caveats",
+  "sidebar": "docs",
+  "previous": {
+    "title": "Debugging",
+    "permalink": "/docs/debugging"
+  }
+}

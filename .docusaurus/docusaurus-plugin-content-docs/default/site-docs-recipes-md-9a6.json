@@ -1,0 +1,21 @@
+{
+  "unversionedId": "recipes",
+  "id": "recipes",
+  "isDocsHomePage": false,
+  "title": "Recipes",
+  "description": "React Tracked provides a primitive API,",
+  "source": "@site/docs\\recipes.md",
+  "slug": "/recipes",
+  "permalink": "/docs/recipes",
+  "version": "current",
+  "sidebar_label": "Recipes",
+  "sidebar": "docs",
+  "previous": {
+    "title": "API",
+    "permalink": "/docs/api"
+  },
+  "next": {
+    "title": "Debugging",
+    "permalink": "/docs/debugging"
+  }
+}

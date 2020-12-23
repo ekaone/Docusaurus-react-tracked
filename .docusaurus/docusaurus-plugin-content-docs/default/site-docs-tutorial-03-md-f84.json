@@ -1,0 +1,21 @@
+{
+  "unversionedId": "tutorial-03",
+  "id": "tutorial-03",
+  "isDocsHomePage": false,
+  "title": "Tutorial - ToDo App with useState",
+  "description": "This tutorial shows example code with useState, Immer and custom hooks.",
+  "source": "@site/docs\\tutorial-03.md",
+  "slug": "/tutorial-03",
+  "permalink": "/docs/tutorial-03",
+  "version": "current",
+  "sidebar_label": "ToDo App (useState)",
+  "sidebar": "docs",
+  "previous": {
+    "title": "Tutorial - ToDo App with useReducer",
+    "permalink": "/docs/tutorial-02"
+  },
+  "next": {
+    "title": "Tutorial - ToDo App with Async Actions",
+    "permalink": "/docs/tutorial-04"
+  }
+}

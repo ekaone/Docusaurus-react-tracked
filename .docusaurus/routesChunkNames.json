@@ -1,0 +1,76 @@
+{
+  "/-d7d": {
+    "component": "component---site-src-pages-index-jsece-a18",
+    "config": "config---5-e-9-4f3"
+  },
+  "/__docusaurus/debug-3d6": {
+    "component": "component---theme-debug-config-23-a-2ff"
+  },
+  "/__docusaurus/debug/config-914": {
+    "component": "component---theme-debug-config-23-a-2ff"
+  },
+  "/__docusaurus/debug/content-d12": {
+    "component": "component---theme-debug-contentba-8-ce7",
+    "allContent": "allContent---docusaurus-debug-content-4-c-9-f03"
+  },
+  "/__docusaurus/debug/globalData-3cf": {
+    "component": "component---theme-debug-global-dataede-0fa"
+  },
+  "/__docusaurus/debug/metadata-31b": {
+    "component": "component---theme-debug-site-metadata-68-e-3d4"
+  },
+  "/__docusaurus/debug/registry-0da": {
+    "component": "component---theme-debug-registry-679-501"
+  },
+  "/__docusaurus/debug/routes-244": {
+    "component": "component---theme-debug-routes-946-699"
+  },
+  "/docs-344": {
+    "component": "component---theme-doc-page-1-be-9be",
+    "versionMetadata": "versionMetadata---docsf-97-b71"
+  },
+  "/docs/api-fad": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-api-4-c-7-86f"
+  },
+  "/docs/caveats-4cd": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-caveats-93-e-7da"
+  },
+  "/docs/comparison-337": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-comparison-10-a-b1a"
+  },
+  "/docs/debugging-923": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-debugging-328-12c"
+  },
+  "/docs/introduction-48d": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-introduction-1-a-3-85f"
+  },
+  "/docs/quick-start-940": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-quick-start-5-ed-394"
+  },
+  "/docs/recipes-a36": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-recipes-9-a-6-153"
+  },
+  "/docs/tutorial-01-ffc": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-tutorial-0146-a-907"
+  },
+  "/docs/tutorial-02-4e3": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-tutorial-025-cb-762"
+  },
+  "/docs/tutorial-03-0f9": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-tutorial-03-f-84-3a1"
+  },
+  "/docs/tutorial-04-0f3": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-tutorial-04660-7b9"
+  }
+}

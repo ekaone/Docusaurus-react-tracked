@@ -1,0 +1,21 @@
+{
+  "unversionedId": "api",
+  "id": "api",
+  "isDocsHomePage": false,
+  "title": "API",
+  "description": "The createContainer is a main function exported from the library,",
+  "source": "@site/docs\\api.md",
+  "slug": "/api",
+  "permalink": "/docs/api",
+  "version": "current",
+  "sidebar_label": "API",
+  "sidebar": "docs",
+  "previous": {
+    "title": "Tutorial - ToDo App with Async Actions",
+    "permalink": "/docs/tutorial-04"
+  },
+  "next": {
+    "title": "Recipes",
+    "permalink": "/docs/recipes"
+  }
+}

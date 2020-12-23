@@ -1,0 +1,21 @@
+{
+  "unversionedId": "quick-start",
+  "id": "quick-start",
+  "isDocsHomePage": false,
+  "title": "Quick Start",
+  "description": "Let's try a minimal example from scratch.",
+  "source": "@site/docs\\quick-start.md",
+  "slug": "/quick-start",
+  "permalink": "/docs/quick-start",
+  "version": "current",
+  "sidebar_label": "Quick Start",
+  "sidebar": "docs",
+  "previous": {
+    "title": "Introduction",
+    "permalink": "/docs/introduction"
+  },
+  "next": {
+    "title": "Comparison with other projects",
+    "permalink": "/docs/comparison"
+  }
+}
